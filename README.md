@@ -38,3 +38,6 @@ This project demonstrates a simple open-source collaboration workflow using GitH
 
 This project demonstrates a basic Git workflow.
 
+## Version
+
+Version 1.0
