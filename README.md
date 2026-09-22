@@ -18,13 +18,15 @@ This project demonstrates a simple open-source collaboration workflow using GitH
 
 
 
-\- Open an issue
+1\. Open an issue describing the proposed change.
 
-\- Create a branch
+2\. Create a branch for the issue.
 
-\- Make the required changes
+3\. Make the required changes.
 
-\- Submit a pull request
+4\. Commit and push the changes.
 
-\- Address code review feedback
+5\. Submit a pull request.
+
+6\. Address code review feedback.
 
