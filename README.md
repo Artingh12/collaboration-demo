@@ -30,3 +30,11 @@ This project demonstrates a simple open-source collaboration workflow using GitH
 
 6\. Address code review feedback.
 
+
+
+\## Git Workflow
+
+
+
+This project demonstrates a basic Git workflow.
+
